@@ -1,4 +1,4 @@
-FROM nginxproxy/acme-companion:2.5.1
+FROM nginxproxy/acme-companion:2.5.2
 
 LABEL maintainer "Dschinghis Kahn"
 
